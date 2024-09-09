@@ -1,0 +1,10 @@
+*{
+ background-color: black;
+color: rgb(255, 149, 0);
+font-family: Verdana;
+}
+
+h1{
+    font-style: oblique;
+    text-align: right;
+}
